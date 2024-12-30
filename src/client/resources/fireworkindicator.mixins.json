@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "themasterkitty.fireworkindicator.mixins",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"InGameHudMixin",
+		"MinecraftClientMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
